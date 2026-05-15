@@ -277,8 +277,8 @@ VITE_FIREBASE_APP_ID=your-app-id
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/ai-resume-builder.git
-cd ai-resume-builder
+git clone https://github.com/ishwari418/career-pilot.git
+cd career-pilot
 ```
 
 2. **Install backend dependencies**
@@ -755,6 +755,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the AI Resume Builder Team**
 
-[Report Bug](https://github.com/your-username/ai-resume-builder/issues) • [Request Feature](https://github.com/your-username/ai-resume-builder/issues)
+[Report Bug](https://github.com/ishwari418/career-pilot/issues) • [Request Feature](https://github.com/ishwari418/career-pilot/issues)
 
 </div>
